@@ -1,0 +1,7 @@
+ls
+ls -alt'
+
+ls -alt
+  ls -latr
+ls -latr
+git status
